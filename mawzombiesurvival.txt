@@ -1,0 +1,6 @@
+"gamemode"
+{
+	"base"		"gearfox"
+	"title"		"Maw's Zombie Survival"
+	"menusystem"	"1"
+}
